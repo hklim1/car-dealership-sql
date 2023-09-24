@@ -116,6 +116,7 @@ WHERE customer_id IN(
 );
 --Alternative Output: 130 customers who have made multiple payments, but with only 1 payment exceeding $6.99.
 
+
 -- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --
 
 
